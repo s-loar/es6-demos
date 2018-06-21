@@ -6,4 +6,6 @@ https://javascript30.com/
 
 . Drums - keyCode activated sounds and CSS transition animations
 
-. Clock -
+. Clock - Analog clock with javaScript and CSS
+
+. CSS Variables - JavaScript and CSS variables. Change the values via JS and page controls.
