@@ -10,4 +10,6 @@ https://javascript30.com/
 
 . CSS Variables - JavaScript and CSS variables. Change the values via JS and page controls.
 
-. Array Cardio 1 -
+. Array Cardio 1 - Exercises in JS array methods such as sort, filter, reduce, map
+
+. Flex Panels - Use flexbox to divide the screens into equal boxes and toggle classes and their translations when clicked
